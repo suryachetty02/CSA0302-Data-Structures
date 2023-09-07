@@ -10,7 +10,7 @@ struct Stack {
     int top;
 };
 
-// Function to initialize the stack
+// Function to initialize the stack.
 void initialize(struct Stack* stack) {
     stack->top = -1;
 }
