@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int arr[100]; // Assuming a maximum of 100 elements
+    int arr[100]; // Assuming a maximum of 100 elements.
     int n, choice, position, i;
 
     printf("Enter the number of elements in the array: ");
